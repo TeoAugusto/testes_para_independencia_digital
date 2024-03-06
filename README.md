@@ -1,2 +1,9 @@
-# testes_para_independencia_digital
+# Possibilidades para escapar da Tecnocracia das Big Techs
 Espaço para publicar testes visando a Independência Digital do Media Lab/Unifesspa
+Agradecimento especial para @vladimirchrist (https://github.com/vladimirchrist) que está nos ajudando muito com seu conhecimento em Docker e Arquitetura de Software.
+
+## Apresentação
+O Media Lab/Unifesspa é um dos assinantes da **Rede pela Soberania Digital** que se pauta pelo conteúdo do Manifesto pela Soberania 
+
+Softwares hoje utilizados:
+
