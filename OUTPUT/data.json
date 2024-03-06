@@ -1,0 +1,11 @@
+{
+  "graph": [],
+  "links": [
+],
+  "nodes": [
+	{"sl":0, "size": 10, "score": 0.5, "id": "Gestão de Laboratório", "type":"circle"},
+	{"sl":1, "size": 10, "score": 0.5, "id": "PRINCIPAL - Dashboard", "type":"circle"}
+],
+  "directed": false,
+  "multigraph": false
+}
