@@ -1,3 +1,4 @@
+![ Media Lab/Unifesspa](https://medialab.unifesspa.edu.br/templates/yootheme/cache/medialabunifesspa-b927ab7b.png)
 # Possibilidades para escapar da Tecnocracia das Big Techs
 Espaço para publicar testes visando a Independência Digital do Media Lab/Unifesspa
 Agradecimento especial para @vladimirchrist (https://github.com/vladimirchrist) que está nos ajudando muito com seu conhecimento em Docker e Arquitetura de Software.
